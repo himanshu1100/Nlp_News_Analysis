@@ -1,0 +1,481 @@
+Other --> 0
+['Asia_Cup_2023', 'sports'] --> 1
+['Coronavirus', 'Health___Fitness'] --> 2
+['Coronavirus', 'national', 'Health___Fitness'] --> 3
+['Coronavirus', 'national', 'travel'] --> 4
+['Coronavirus', 'national'] --> 5
+['Coronavirus', 'science', 'Health___Fitness'] --> 6
+['Feel_Good_Stories', 'Health___Fitness', 'national'] --> 7
+['Feel_Good_Stories', 'Health___Fitness', 'travel'] --> 8
+['Feel_Good_Stories', 'Health___Fitness'] --> 9
+['Feel_Good_Stories', 'Lifestyle', 'national', 'travel'] --> 10
+['Feel_Good_Stories', 'business', 'startup'] --> 11
+['Feel_Good_Stories', 'business', 'travel'] --> 12
+['Feel_Good_Stories', 'business'] --> 13
+['Feel_Good_Stories', 'education', 'Health___Fitness'] --> 14
+['Feel_Good_Stories', 'education', 'entertainment', 'travel'] --> 15
+['Feel_Good_Stories', 'education', 'technology'] --> 16
+['Feel_Good_Stories', 'education', 'travel'] --> 17
+['Feel_Good_Stories', 'education'] --> 18
+['Feel_Good_Stories', 'entertainment', 'national'] --> 19
+['Feel_Good_Stories', 'entertainment'] --> 20
+['Feel_Good_Stories', 'fashion'] --> 21
+['Feel_Good_Stories', 'hatke', 'education', 'business', 'entertainment', 'national'] --> 22
+['Feel_Good_Stories', 'hatke', 'education', 'miscellaneous', 'national', 'travel'] --> 23
+['Feel_Good_Stories', 'hatke', 'education', 'national'] --> 24
+['Feel_Good_Stories', 'hatke', 'education', 'world', 'science', 'Health___Fitness', 'national'] --> 25
+['Feel_Good_Stories', 'hatke', 'entertainment', 'national'] --> 26
+['Feel_Good_Stories', 'hatke', 'entertainment'] --> 27
+['Feel_Good_Stories', 'hatke', 'fashion'] --> 28
+['Feel_Good_Stories', 'hatke', 'miscellaneous', 'entertainment'] --> 29
+['Feel_Good_Stories', 'hatke', 'miscellaneous', 'travel'] --> 30
+['Feel_Good_Stories', 'hatke', 'miscellaneous'] --> 31
+['Feel_Good_Stories', 'hatke', 'national', 'travel'] --> 32
+['Feel_Good_Stories', 'hatke', 'national'] --> 33
+['Feel_Good_Stories', 'hatke', 'travel'] --> 34
+['Feel_Good_Stories', 'hatke', 'world', 'fashion'] --> 35
+['Feel_Good_Stories', 'hatke', 'world', 'miscellaneous', 'business', 'national'] --> 36
+['Feel_Good_Stories', 'hatke', 'world', 'national'] --> 37
+['Feel_Good_Stories', 'hatke', 'world', 'travel'] --> 38
+['Feel_Good_Stories', 'hatke', 'world'] --> 39
+['Feel_Good_Stories', 'miscellaneous', 'Health___Fitness'] --> 40
+['Feel_Good_Stories', 'miscellaneous', 'business', 'Health___Fitness'] --> 41
+['Feel_Good_Stories', 'miscellaneous', 'entertainment', 'travel'] --> 42
+['Feel_Good_Stories', 'miscellaneous', 'entertainment'] --> 43
+['Feel_Good_Stories', 'miscellaneous', 'fashion'] --> 44
+['Feel_Good_Stories', 'miscellaneous', 'national'] --> 45
+['Feel_Good_Stories', 'miscellaneous', 'travel'] --> 46
+['Feel_Good_Stories', 'miscellaneous', 'world', 'science'] --> 47
+['Feel_Good_Stories', 'miscellaneous'] --> 48
+['Feel_Good_Stories', 'national', 'travel'] --> 49
+['Feel_Good_Stories', 'national'] --> 50
+['Feel_Good_Stories', 'politics', 'education', 'entertainment', 'national'] --> 51
+['Feel_Good_Stories', 'politics', 'education', 'miscellaneous', 'national'] --> 52
+['Feel_Good_Stories', 'politics', 'hatke', 'education', 'miscellaneous', 'national'] --> 53
+['Feel_Good_Stories', 'science'] --> 54
+['Feel_Good_Stories', 'sports', 'Health___Fitness', 'national', 'travel'] --> 55
+['Feel_Good_Stories', 'sports', 'technology'] --> 56
+['Feel_Good_Stories', 'sports', 'travel'] --> 57
+['Feel_Good_Stories', 'sports'] --> 58
+['Feel_Good_Stories', 'startup'] --> 59
+['Feel_Good_Stories', 'travel'] --> 60
+['Feel_Good_Stories', 'world', 'miscellaneous', 'technology'] --> 61
+['Feel_Good_Stories', 'world', 'miscellaneous'] --> 62
+['Feel_Good_Stories', 'world', 'science'] --> 63
+['Feel_Good_Stories', 'world', 'travel'] --> 64
+['Feel_Good_Stories', 'world'] --> 65
+['Health___Fitness', 'Lifestyle', 'national'] --> 66
+['Health___Fitness', 'Lifestyle'] --> 67
+['Health___Fitness', 'fashion'] --> 68
+['Health___Fitness', 'national'] --> 69
+['Health___Fitness', 'technology'] --> 70
+['Health___Fitness', 'travel'] --> 71
+['Health___Fitness'] --> 72
+['Lifestyle', 'Health___Fitness'] --> 73
+['Lifestyle', 'fashion'] --> 74
+['Lifestyle', 'technology'] --> 75
+['Lifestyle', 'travel'] --> 76
+['ODI_World_Cup_2023', 'business', 'startup', 'technology'] --> 77
+['ODI_World_Cup_2023', 'entertainment'] --> 78
+['ODI_World_Cup_2023', 'sports', 'entertainment'] --> 79
+['ODI_World_Cup_2023', 'sports', 'national'] --> 80
+['ODI_World_Cup_2023', 'sports', 'startup'] --> 81
+['ODI_World_Cup_2023', 'sports', 'technology'] --> 82
+['ODI_World_Cup_2023', 'sports'] --> 83
+['ODI_World_Cup_2023', 'startup'] --> 84
+['all', 'myfeed', 'education'] --> 85
+['all', 'myfeed', 'sports', 'Asian_Games_2022'] --> 86
+['all', 'myfeed', 'sports', 'national'] --> 87
+['all', 'myfeed', 'sports'] --> 88
+['automobile', 'Feel_Good_Stories', 'hatke', 'national'] --> 89
+['automobile', 'business', 'Lifestyle'] --> 90
+['automobile', 'business', 'national'] --> 91
+['automobile', 'business', 'sports'] --> 92
+['automobile', 'business', 'startup', 'technology', 'travel'] --> 93
+['automobile', 'business', 'startup', 'technology'] --> 94
+['automobile', 'business', 'startup'] --> 95
+['automobile', 'business', 'technology', 'travel'] --> 96
+['automobile', 'business', 'technology'] --> 97
+['automobile', 'business'] --> 98
+['automobile', 'entertainment'] --> 99
+['automobile', 'miscellaneous'] --> 100
+['automobile', 'national'] --> 101
+['automobile', 'politics', 'national', 'technology'] --> 102
+['automobile', 'science', 'technology'] --> 103
+['automobile', 'sports'] --> 104
+['automobile', 'startup', 'technology'] --> 105
+['automobile', 'startup'] --> 106
+['automobile', 'technology', 'Israel-Hamas_War'] --> 107
+['automobile', 'technology', 'travel'] --> 108
+['automobile', 'technology'] --> 109
+['automobile', 'world', 'business', 'national'] --> 110
+['automobile', 'world', 'business'] --> 111
+['automobile', 'world', 'technology'] --> 112
+['automobile', 'world'] --> 113
+['automobile'] --> 114
+['business', 'Health___Fitness', 'national'] --> 115
+['business', 'Health___Fitness'] --> 116
+['business', 'Israel-Hamas_War'] --> 117
+['business', 'ODI_World_Cup_2023', 'startup'] --> 118
+['business', 'entertainment', 'national'] --> 119
+['business', 'entertainment', 'startup', 'national'] --> 120
+['business', 'entertainment', 'startup', 'technology', 'policy'] --> 121
+['business', 'entertainment', 'startup', 'technology'] --> 122
+['business', 'entertainment', 'startup'] --> 123
+['business', 'entertainment', 'technology', 'policy'] --> 124
+['business', 'entertainment', 'technology'] --> 125
+['business', 'entertainment'] --> 126
+['business', 'fashion'] --> 127
+['business', 'national', 'Health___Fitness', 'travel'] --> 128
+['business', 'national', 'Health___Fitness'] --> 129
+['business', 'national', 'fashion'] --> 130
+['business', 'national', 'technology'] --> 131
+['business', 'national', 'travel'] --> 132
+['business', 'national'] --> 133
+['business', 'science', 'fashion'] --> 134
+['business', 'science', 'technology'] --> 135
+['business', 'science'] --> 136
+['business', 'sports', 'ODI_World_Cup_2023'] --> 137
+['business', 'sports', 'national'] --> 138
+['business', 'sports', 'startup', 'technology'] --> 139
+['business', 'sports', 'technology'] --> 140
+['business', 'sports'] --> 141
+['business', 'startup', 'Health___Fitness', 'technology'] --> 142
+['business', 'startup', 'Health___Fitness'] --> 143
+['business', 'startup', 'fashion'] --> 144
+['business', 'startup', 'national', 'technology'] --> 145
+['business', 'startup', 'national'] --> 146
+['business', 'startup', 'science', 'technology'] --> 147
+['business', 'startup', 'science'] --> 148
+['business', 'startup', 'technology', 'facts'] --> 149
+['business', 'startup', 'technology', 'fashion'] --> 150
+['business', 'startup', 'technology', 'policy'] --> 151
+['business', 'startup', 'technology', 'travel'] --> 152
+['business', 'startup', 'technology'] --> 153
+['business', 'startup', 'travel'] --> 154
+['business', 'startup'] --> 155
+['business', 'technology', 'Israel-Hamas_War'] --> 156
+['business', 'technology'] --> 157
+['business', 'travel'] --> 158
+['business'] --> 159
+['cryptocurrency', 'business', 'national', 'technology'] --> 160
+['cryptocurrency', 'business', 'technology'] --> 161
+['cryptocurrency', 'business'] --> 162
+['cryptocurrency', 'technology'] --> 163
+['education', 'Health___Fitness'] --> 164
+['education', 'business', 'national', 'technology'] --> 165
+['education', 'business', 'national'] --> 166
+['education', 'business', 'startup', 'technology'] --> 167
+['education', 'business', 'startup'] --> 168
+['education', 'business', 'technology'] --> 169
+['education', 'business', 'travel'] --> 170
+['education', 'business'] --> 171
+['education', 'miscellaneous', 'business', 'national'] --> 172
+['education', 'miscellaneous', 'business', 'startup'] --> 173
+['education', 'miscellaneous', 'entertainment', 'science', 'national', 'technology'] --> 174
+['education', 'miscellaneous', 'national'] --> 175
+['education', 'miscellaneous', 'science', 'Health___Fitness'] --> 176
+['education', 'miscellaneous', 'travel'] --> 177
+['education', 'miscellaneous', 'world', 'national'] --> 178
+['education', 'miscellaneous'] --> 179
+['education', 'national', 'Health___Fitness'] --> 180
+['education', 'national'] --> 181
+['education', 'science', 'national', 'technology'] --> 182
+['education', 'science', 'national'] --> 183
+['education', 'science', 'technology'] --> 184
+['education', 'startup', 'national'] --> 185
+['education', 'startup', 'technology'] --> 186
+['education', 'startup'] --> 187
+['education', 'technology'] --> 188
+['education', 'travel'] --> 189
+['education', 'world', 'Israel-Hamas_War'] --> 190
+['education', 'world', 'business', 'Israel-Hamas_War'] --> 191
+['education', 'world', 'miscellaneous'] --> 192
+['education', 'world', 'national', 'technology'] --> 193
+['education', 'world', 'national'] --> 194
+['education', 'world'] --> 195
+['education'] --> 196
+['entertainment', 'Health___Fitness', 'fashion'] --> 197
+['entertainment', 'Health___Fitness'] --> 198
+['entertainment', 'Israel-Hamas_War'] --> 199
+['entertainment', 'fashion'] --> 200
+['entertainment', 'national', 'technology'] --> 201
+['entertainment', 'national'] --> 202
+['entertainment', 'science'] --> 203
+['entertainment', 'startup', 'national'] --> 204
+['entertainment', 'startup', 'technology', 'policy'] --> 205
+['entertainment', 'startup', 'technology'] --> 206
+['entertainment', 'startup'] --> 207
+['entertainment', 'technology'] --> 208
+['entertainment', 'travel'] --> 209
+['entertainment'] --> 210
+['fashion'] --> 211
+['hatke', 'Health___Fitness', 'national'] --> 212
+['hatke', 'business', 'fashion'] --> 213
+['hatke', 'business'] --> 214
+['hatke', 'education', 'fashion'] --> 215
+['hatke', 'education', 'national', 'fashion'] --> 216
+['hatke', 'education', 'national'] --> 217
+['hatke', 'education', 'science', 'national', 'technology'] --> 218
+['hatke', 'entertainment', 'Health___Fitness', 'national'] --> 219
+['hatke', 'entertainment', 'national', 'travel'] --> 220
+['hatke', 'entertainment', 'national'] --> 221
+['hatke', 'entertainment', 'technology'] --> 222
+['hatke', 'fashion'] --> 223
+['hatke', 'miscellaneous', 'Health___Fitness'] --> 224
+['hatke', 'miscellaneous', 'business', 'national'] --> 225
+['hatke', 'miscellaneous', 'entertainment', 'national', 'travel'] --> 226
+['hatke', 'miscellaneous', 'entertainment', 'national'] --> 227
+['hatke', 'miscellaneous', 'entertainment'] --> 228
+['hatke', 'miscellaneous', 'national', 'technology'] --> 229
+['hatke', 'miscellaneous', 'national'] --> 230
+['hatke', 'miscellaneous', 'travel'] --> 231
+['hatke', 'miscellaneous', 'world'] --> 232
+['hatke', 'miscellaneous'] --> 233
+['hatke', 'national', 'Health___Fitness'] --> 234
+['hatke', 'national', 'fashion'] --> 235
+['hatke', 'national', 'technology'] --> 236
+['hatke', 'national', 'travel'] --> 237
+['hatke', 'national'] --> 238
+['hatke', 'sports'] --> 239
+['hatke', 'technology'] --> 240
+['hatke', 'travel'] --> 241
+['hatke', 'world', 'entertainment'] --> 242
+['hatke', 'world', 'miscellaneous'] --> 243
+['hatke', 'world', 'national', 'Health___Fitness'] --> 244
+['hatke', 'world', 'national'] --> 245
+['hatke', 'world', 'technology'] --> 246
+['hatke', 'world'] --> 247
+['metaverse', 'business', 'technology'] --> 248
+['metaverse', 'education', 'technology'] --> 249
+['miscellaneous', 'Health___Fitness'] --> 250
+['miscellaneous', 'Lifestyle', 'Health___Fitness'] --> 251
+['miscellaneous', 'Lifestyle'] --> 252
+['miscellaneous', 'business', 'startup', 'national'] --> 253
+['miscellaneous', 'business', 'startup'] --> 254
+['miscellaneous', 'business'] --> 255
+['miscellaneous', 'education', 'national'] --> 256
+['miscellaneous', 'education'] --> 257
+['miscellaneous', 'entertainment', 'fashion'] --> 258
+['miscellaneous', 'entertainment', 'travel'] --> 259
+['miscellaneous', 'entertainment'] --> 260
+['miscellaneous', 'fashion'] --> 261
+['miscellaneous', 'national', 'Health___Fitness'] --> 262
+['miscellaneous', 'national', 'technology', 'fashion'] --> 263
+['miscellaneous', 'national', 'technology'] --> 264
+['miscellaneous', 'national'] --> 265
+['miscellaneous', 'science', 'national', 'Health___Fitness'] --> 266
+['miscellaneous', 'science'] --> 267
+['miscellaneous', 'sports'] --> 268
+['miscellaneous', 'startup'] --> 269
+['miscellaneous', 'technology'] --> 270
+['miscellaneous', 'travel'] --> 271
+['miscellaneous', 'world', 'Health___Fitness'] --> 272
+['miscellaneous', 'world', 'science'] --> 273
+['miscellaneous', 'world', 'technology'] --> 274
+['miscellaneous', 'world'] --> 275
+['miscellaneous'] --> 276
+['national', 'Health___Fitness', 'technology'] --> 277
+['national', 'Health___Fitness'] --> 278
+['national', 'Lifestyle'] --> 279
+['national', 'fashion'] --> 280
+['national', 'technology', 'travel'] --> 281
+['national', 'technology'] --> 282
+['national', 'travel'] --> 283
+['national'] --> 284
+['politics', 'Feel_Good_Stories', 'education', 'miscellaneous', 'national'] --> 285
+['politics', 'Health___Fitness', 'national'] --> 286
+['politics', 'Health___Fitness'] --> 287
+['politics', 'Israel-Hamas_War'] --> 288
+['politics', 'ODI_World_Cup_2023'] --> 289
+['politics', 'business', 'national'] --> 290
+['politics', 'business', 'startup', 'technology'] --> 291
+['politics', 'business'] --> 292
+['politics', 'education', 'miscellaneous', 'national'] --> 293
+['politics', 'education', 'miscellaneous', 'sports', 'business', 'entertainment', 'technology', 'automobile', 'Feel_Good_Stories', 'hatke', 'world', 'science', 'national'] --> 294
+['politics', 'education', 'miscellaneous', 'world', 'national', 'Russia-Ukraine_Conflict', 'Israel-Hamas_War'] --> 295
+['politics', 'education', 'miscellaneous', 'world'] --> 296
+['politics', 'education', 'national', 'Health___Fitness'] --> 297
+['politics', 'education', 'national'] --> 298
+['politics', 'education', 'world', 'national'] --> 299
+['politics', 'education', 'world', 'technology'] --> 300
+['politics', 'education'] --> 301
+['politics', 'entertainment', 'national'] --> 302
+['politics', 'entertainment'] --> 303
+['politics', 'hatke', 'education', 'miscellaneous', 'national'] --> 304
+['politics', 'hatke', 'education', 'national', 'travel'] --> 305
+['politics', 'hatke', 'education', 'national'] --> 306
+['politics', 'hatke', 'miscellaneous'] --> 307
+['politics', 'hatke', 'national'] --> 308
+['politics', 'miscellaneous', 'Health___Fitness', 'national'] --> 309
+['politics', 'miscellaneous', 'business', 'startup', 'national'] --> 310
+['politics', 'miscellaneous', 'education', 'national'] --> 311
+['politics', 'miscellaneous', 'entertainment'] --> 312
+['politics', 'miscellaneous', 'national'] --> 313
+['politics', 'miscellaneous', 'science', 'national'] --> 314
+['politics', 'miscellaneous'] --> 315
+['politics', 'national', 'Health___Fitness'] --> 316
+['politics', 'national', 'Israel-Hamas_War'] --> 317
+['politics', 'national', 'technology'] --> 318
+['politics', 'national', 'travel'] --> 319
+['politics', 'national'] --> 320
+['politics', 'sports', 'Asia_Cup_2023'] --> 321
+['politics', 'sports', 'Asian_Games_2022'] --> 322
+['politics', 'sports', 'ODI_World_Cup_2023'] --> 323
+['politics', 'sports', 'national'] --> 324
+['politics', 'sports'] --> 325
+['politics', 'startup'] --> 326
+['politics', 'technology'] --> 327
+['politics', 'world', 'Israel-Hamas_War'] --> 328
+['politics', 'world', 'business', 'Israel-Hamas_War'] --> 329
+['politics', 'world', 'business', 'fashion'] --> 330
+['politics', 'world', 'education', 'miscellaneous', 'business', 'entertainment', 'science', 'national', 'technology'] --> 331
+['politics', 'world', 'education', 'national'] --> 332
+['politics', 'world', 'education', 'science', 'national', 'technology'] --> 333
+['politics', 'world', 'education'] --> 334
+['politics', 'world', 'entertainment', 'national'] --> 335
+['politics', 'world', 'entertainment'] --> 336
+['politics', 'world', 'fashion'] --> 337
+['politics', 'world', 'national', 'Israel-Hamas_War'] --> 338
+['politics', 'world', 'national'] --> 339
+['politics', 'world', 'sports'] --> 340
+['politics', 'world', 'travel'] --> 341
+['politics', 'world'] --> 342
+['politics'] --> 343
+['science', 'Health___Fitness', 'Lifestyle'] --> 344
+['science', 'Health___Fitness', 'technology'] --> 345
+['science', 'Health___Fitness'] --> 346
+['science', 'national', 'technology'] --> 347
+['science', 'national'] --> 348
+['science', 'technology'] --> 349
+['science'] --> 350
+['sports', 'Asia_Cup_2023', 'entertainment'] --> 351
+['sports', 'Asia_Cup_2023'] --> 352
+['sports', 'Asian_Games_2022'] --> 353
+['sports', 'Australian_Open_2024'] --> 354
+['sports', 'Health___Fitness'] --> 355
+['sports', 'ODI_World_Cup_2023', 'entertainment'] --> 356
+['sports', 'ODI_World_Cup_2023', 'national'] --> 357
+['sports', 'ODI_World_Cup_2023', 'technology'] --> 358
+['sports', 'ODI_World_Cup_2023'] --> 359
+['sports', 'business', 'Health___Fitness'] --> 360
+['sports', 'business', 'ODI_World_Cup_2023'] --> 361
+['sports', 'business', 'national'] --> 362
+['sports', 'business', 'startup', 'technology'] --> 363
+['sports', 'business', 'technology'] --> 364
+['sports', 'business'] --> 365
+['sports', 'entertainment', 'national'] --> 366
+['sports', 'entertainment', 'technology'] --> 367
+['sports', 'entertainment', 'travel'] --> 368
+['sports', 'entertainment'] --> 369
+['sports', 'facts'] --> 370
+['sports', 'fashion'] --> 371
+['sports', 'national', 'Asian_Games_2022'] --> 372
+['sports', 'national', 'travel'] --> 373
+['sports', 'national'] --> 374
+['sports', 'science', 'Health___Fitness'] --> 375
+['sports', 'science'] --> 376
+['sports', 'startup'] --> 377
+['sports', 'technology', 'Asian_Games_2022'] --> 378
+['sports', 'technology'] --> 379
+['sports', 'travel'] --> 380
+['sports'] --> 381
+['startup', 'Health___Fitness', 'technology'] --> 382
+['startup', 'Health___Fitness'] --> 383
+['startup', 'fashion'] --> 384
+['startup', 'national', 'Health___Fitness'] --> 385
+['startup', 'national', 'policy'] --> 386
+['startup', 'national', 'travel'] --> 387
+['startup', 'national'] --> 388
+['startup', 'science', 'technology'] --> 389
+['startup', 'science'] --> 390
+['startup', 'technology', 'fashion'] --> 391
+['startup', 'technology', 'policy'] --> 392
+['startup', 'technology'] --> 393
+['startup', 'travel'] --> 394
+['startup'] --> 395
+['technology', 'Israel-Hamas_War'] --> 396
+['technology', 'fashion'] --> 397
+['technology', 'travel'] --> 398
+['technology'] --> 399
+['travel'] --> 400
+['world', 'Coronavirus', 'Health___Fitness'] --> 401
+['world', 'Coronavirus', 'science', 'Health___Fitness'] --> 402
+['world', 'Coronavirus', 'travel'] --> 403
+['world', 'Coronavirus'] --> 404
+['world', 'Health___Fitness', 'national', 'technology'] --> 405
+['world', 'Health___Fitness', 'national'] --> 406
+['world', 'Health___Fitness'] --> 407
+['world', 'Israel-Hamas_War', 'fashion'] --> 408
+['world', 'Israel-Hamas_War'] --> 409
+['world', 'Lifestyle', 'fashion'] --> 410
+['world', 'Russia-Ukraine_Conflict', 'Israel-Hamas_War'] --> 411
+['world', 'Russia-Ukraine_Conflict'] --> 412
+['world', 'business', 'Health___Fitness', 'national'] --> 413
+['world', 'business', 'Health___Fitness'] --> 414
+['world', 'business', 'Israel-Hamas_War'] --> 415
+['world', 'business', 'entertainment'] --> 416
+['world', 'business', 'fashion'] --> 417
+['world', 'business', 'national', 'technology'] --> 418
+['world', 'business', 'national'] --> 419
+['world', 'business', 'startup', 'technology'] --> 420
+['world', 'business', 'startup'] --> 421
+['world', 'business', 'technology', 'Israel-Hamas_War'] --> 422
+['world', 'business', 'technology'] --> 423
+['world', 'business', 'travel', 'fashion'] --> 424
+['world', 'business', 'travel'] --> 425
+['world', 'business'] --> 426
+['world', 'education', 'business', 'Israel-Hamas_War'] --> 427
+['world', 'education', 'business'] --> 428
+['world', 'education', 'entertainment', 'technology'] --> 429
+['world', 'education', 'miscellaneous'] --> 430
+['world', 'education', 'national'] --> 431
+['world', 'education', 'science', 'Health___Fitness'] --> 432
+['world', 'education'] --> 433
+['world', 'entertainment', 'Health___Fitness'] --> 434
+['world', 'entertainment', 'Israel-Hamas_War'] --> 435
+['world', 'entertainment', 'fashion'] --> 436
+['world', 'entertainment', 'national'] --> 437
+['world', 'entertainment', 'technology'] --> 438
+['world', 'entertainment', 'travel'] --> 439
+['world', 'entertainment'] --> 440
+['world', 'fashion'] --> 441
+['world', 'miscellaneous', 'Health___Fitness'] --> 442
+['world', 'miscellaneous', 'Israel-Hamas_War'] --> 443
+['world', 'miscellaneous', 'ODI_World_Cup_2023', 'sports', 'national'] --> 444
+['world', 'miscellaneous', 'business'] --> 445
+['world', 'miscellaneous', 'education', 'national'] --> 446
+['world', 'miscellaneous', 'education'] --> 447
+['world', 'miscellaneous', 'entertainment'] --> 448
+['world', 'miscellaneous', 'national', 'technology'] --> 449
+['world', 'miscellaneous', 'national'] --> 450
+['world', 'miscellaneous', 'science', 'national', 'technology'] --> 451
+['world', 'miscellaneous', 'science', 'national'] --> 452
+['world', 'miscellaneous', 'technology', 'Israel-Hamas_War'] --> 453
+['world', 'miscellaneous'] --> 454
+['world', 'national', 'Health___Fitness'] --> 455
+['world', 'national', 'Israel-Hamas_War'] --> 456
+['world', 'national', 'Russia-Ukraine_Conflict'] --> 457
+['world', 'national', 'technology'] --> 458
+['world', 'national', 'travel'] --> 459
+['world', 'national'] --> 460
+['world', 'science', 'Health___Fitness', 'national'] --> 461
+['world', 'science', 'Health___Fitness'] --> 462
+['world', 'science', 'national', 'Health___Fitness'] --> 463
+['world', 'science', 'national', 'technology'] --> 464
+['world', 'science', 'national'] --> 465
+['world', 'science', 'technology'] --> 466
+['world', 'science'] --> 467
+['world', 'sports', 'Israel-Hamas_War'] --> 468
+['world', 'sports', 'ODI_World_Cup_2023', 'Israel-Hamas_War'] --> 469
+['world', 'sports', 'ODI_World_Cup_2023', 'national'] --> 470
+['world', 'sports', 'entertainment'] --> 471
+['world', 'sports', 'national'] --> 472
+['world', 'sports'] --> 473
+['world', 'startup', 'science', 'technology'] --> 474
+['world', 'startup', 'technology'] --> 475
+['world', 'startup'] --> 476
+['world', 'technology', 'Israel-Hamas_War'] --> 477
+['world', 'technology'] --> 478
+['world', 'travel'] --> 479
+['world'] --> 480
